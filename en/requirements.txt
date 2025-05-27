@@ -1,0 +1,7 @@
+# requirements.txt
+selenium>=4.10.0  # Using a more recent version for better Selenium Manager and headless
+pandas>=1.3.0
+openpyxl>=3.0.0  # For Excel export
+seokar           # Sajjad's SEO lib!
+# matplotlib>=3.3.0 # Uncomment if you plan to use the analysis/plotting functions from the article
+# seaborn>=0.11.0   # Uncomment for prettier plots
